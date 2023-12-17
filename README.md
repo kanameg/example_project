@@ -1,5 +1,7 @@
 # Git練習用プロジェクト
 
+developで追加 #1
+
 変更を追加
 developブランチでの変更 developで追加編集
 devlopで追加編集 コンフリクトするはず。
