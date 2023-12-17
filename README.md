@@ -6,6 +6,7 @@ developで追加 #3
 developで追加 #4
 developで追加 #5
 developで追加 #6
+developで追加 #7
 
 変更を追加
 developブランチでの変更 developで追加編集
